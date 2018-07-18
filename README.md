@@ -41,7 +41,13 @@ And you will be prompted as follows:
 ```
 Enter a puzzle here:
 ```
-You can also add a puzzle into the plaintext file cryptotests, and run:
+You can also add a puzzle into the plaintext file cryptotests, like this:
+```
+XXX.
+ENCRYPTED PUZZLE
+```
+
+And run:
 ```
 $ python3 cryptoquip.py -t XXX
 ```
