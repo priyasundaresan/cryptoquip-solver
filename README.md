@@ -37,3 +37,7 @@ You can also add a puzzle into the plaintext file cryptotests, and run:
 ```
 $ python3 cryptoquip.py -t XXX
 ```
+To view all cases on cryptotests, run:
+```
+$ python3 cryptoquip.py -c
+```
