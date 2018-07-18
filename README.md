@@ -41,7 +41,7 @@ And you will be prompted as follows:
 ```
 Enter a puzzle here:
 ```
-You can also add a puzzle into the plaintext file cryptotests, like this:
+You can also add a puzzle as test XXX into the plaintext file cryptotests, like this:
 ```
 XXX.
 ENCRYPTED PUZZLE
