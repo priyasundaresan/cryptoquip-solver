@@ -45,6 +45,7 @@ $ python3 cryptoquip.py -i -s 4000
 And you will be prompted as follows:
 ```
 Enter a puzzle here:
+SJLQWXG NDJRT KQDOPKWOQWR OXT SJFMCTWTCG JPRTRRTB NKWD PJOWR MXJMTCCTB PG JOXR: XJN-FOQKO.
 ```
 ### You can also add a puzzle as test XXX into the plaintext file cryptotests, like this:
 ```
