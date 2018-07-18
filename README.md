@@ -11,6 +11,12 @@ A solver for newspaper cryptoquip puzzles like [this one](https://cryptoquipansw
 $ git clone https://github.com/priyasundaresan/cryptoquip-solver
 ```
 
+## Dependencies
+```
+$ pip install pprint
+$ pip install argparse
+```
+
 ## Usage
 You can run any of the puzzles listed in cryptotests or your own puzzles.
 Navigate to the folder containing the above files and run any of the following options in the terminal:
