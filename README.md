@@ -12,6 +12,8 @@ $ git clone https://github.com/priyasundaresan/cryptoquip-solver
 ```
 
 ## Dependencies
+* pprint – "pretty prints" output
+* argparse – command line utility for running various test cases; see usage
 ```
 $ pip install pprint
 $ pip install argparse
