@@ -1,5 +1,5 @@
 # cryptoquip-solver
-A solver for newspaper cryptoquip puzzles like [this one](https://cryptoquipanswer.com/2018/04/06/cryptoquip-answer-for-4-6-18/).
+A solver for newspaper cryptoquip puzzles like this one [Cryptoquip Answer Today]([https://cryptoquipanswer.com/2018/04/06/cryptoquip-answer-for-4-6-18/](https://cryptoquipsanswer.com/cryptoquip-answer-01-17-2023/)).
 
 ## Files
 * cryptoquip.py – the solve algorithm
